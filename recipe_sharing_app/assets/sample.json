@@ -1,0 +1,85 @@
+{
+    "item":[
+        {
+            "id": "0",
+            "name": "Pizza",
+            "photos": "assets/images/pizza.jpg",
+            "recipe": [
+                "   Step: 1. To prepare this delicious Cheese Pizza recipe, preheat the oven on convection mode at 250 degree Celsius. Meanwhile, spread the tomato sauce evenly on each pizza base. Take a chopping board and chop onions, tomatoes, capsicum and mushroom on it.",
+                "   Step: 2.Mix all the chopped vegetables and seasoning in a bowl. Microwave these vegetables in a microwave-safe bowl for around 30-40 seconds or a minute. Spread this vegetable topping on each pizza base. Sprinkle grated mozzarella cheese at the top of each pizza.",
+                "   Step: 3. ou can either bake this pizza in a microwave or you can use a non-stick tawa for the same. However, in this recipe we have used microwave. Bake the pizza on the high rack at 250 degree Celsius till the cheese melts. It will take around 10-12 minutes. Once baked, add some extra virgin olive oil over the pizza and cut the delicious Cheese Pizza into slices. Serve with sauces."
+            ],
+            "favorite": false
+        },
+        {
+            "id": "1",
+            "name": "Burger",
+            "photos": "assets/images/burger.jpg",
+            "recipe" : [
+                "Step 1: For the Chickpeas patty, mix soaked chickpeas, capsicum, lemon juice, chopped onion, olive oil, lemon zest, bread crumbs, cumin powder, chopped coriander leaves, peanut butter, sesame seeds and sesame oil in a bowl.",
+                "Step 2: Put the mix in a blender and blend it. Sprinkle some pepper powder and take out the mix in a bowl.",
+                "Step 3: Using the mix, form some balls and flatten them to make the patty. Cover the patties prepared with a cling wrap and refrigerate them for 7-8 hours.",
+                "Step 4: In a non-stick pan heat some oil and fry all the patties until they turn golden in colour.",
+                "Step 5: Take the burger buns and cut them into half. Spread some butter on one of the halves.",
+                "Step 6: For assembling the burger, put the baby lettuce first. Then, place the chickpeas patty. Top it with sliced cucumber, tomato and onion slices.",
+                "Step 7: Put tomato ketchup as per your liking and add some pepper powder on top.",
+                "Step 8: Your burger is ready to be served."
+            ],
+            "favorite": false
+        },
+        {
+            "id": "2",
+            "name": "Pasta",
+            "photos": "assets/images/pasta.jpg",
+            "recipe":[
+                "Step 1 : Prepare the dressing in a bowl, add olive oil, white vinegar, sugar, black pepper, salt, garlic powder, mixed herbs, and 2tbsp of water. Mix everything well and keep it aside.",
+                "Step 2 Mix veggies and pasta Now, in another bowl, add broccoli, cherry tomatoes, and black olives. Then add cooked fusilli pasta (as per the instructions given in the package).",
+                "Step 3 Pour the dressing Pour the dressing on the veggies and cooked pasta. Give it a nice toss so that everything mixes well.",
+                "Step 4 Your Italian Pasta Salad is ready to serve Add mozzarella cheese and oregano on the top and it's done. Your appetizing Italian Pasta Salad is ready to serve."
+            ],
+            "favorite": false
+        },
+        {
+            "id": "3",
+            "name": "Chinese Noodles",
+            "photos": "assets/images/noodles.jpg",
+            "recipe":[
+                "Step 1: Chinese Noodle is a delectable amalgamation of noodles, veggies and spices. Undoubtedly, it is one of the easiest and simplest thing to prepare. Here’s a simple way of making this dish at home by using some easily available ingredients Take a big microwave-safe bowl and add water in it. Then add oil and salt. Boil for 10 minutes. Then add noodles and boil for 8-9 minutes. Keep stirring in between. Once done, strain and wash the boiled noodles under cold running water. Once done, keep aside.",
+                "Step 2: Then take another microwave-safe bowl and add oil in it. Microwave at 100% power for 30 secs. Once the oil is sufficiently hot, add all chopped vegetables and microwave for 4 – 5 minutes at 100% power. Stir in between. Add soya sauce, tomato chilli sauce, vinegar, salt, black pepper and Ajinomoto. Stir the ingredients well.",
+                "Step 3: Now add the boiled noodles to vegetables and stir it. Microwave for 1 min. at 80% power. Chinese Noodles is ready to be served. Pair it with vegetable or chicken Manchurian and serve hot."
+            ],
+            "favorite": false
+        },
+        {
+            "id": "4",
+            "name": "Biryani",
+            "photos": "assets/images/briyani.jpg",
+            "recipe": [
+                "Step 1: To prepare this delicious biryani recipe, wash and soak red chillies in water for 20 minutes. Then grind it into a thick paste by adding very little water. Keep aside.",
+                "Step 2: Similarly, wash short grain or arborio rice and chicken. Soak the rice for 30 minutes in a bowl.",
+                "Step 3: Boil 3 liters of water in a large dish. Once water start to boil, add 1 tspn of salt and 1 tspn of oil and then add the soaked rice.",
+                "Step 4: Cook it until it’s 3/4th done. Drain all the water and keep the cooked rice aside. (Do not over cook or fully cook the rice, as we would be making biryani on dum).",
+                "Step 5: Heat oil in a deep bottomed pan. Add 1 tspn of curd and mix well. (Be careful here the curd will splutter).",
+                "Step 6: Add cloves, cinnamon, bay leaves and cardamom and mix. Next add 2 tbspns of sliced onions and mix.",
+                "Step 7: Add ginger-garlic paste and saute until the raw smell of the paste is gone. Add chicken and cook until the color of the chicken turns white.",
+                "Step 8: Add chopped coriander, onions, tomatoes and mint leaves.",
+                "Step 9: Add ground red chili paste, salt to taste and mix well. Cook for 5 minutes and stir well.",
+                "Step 10: Add remaining curd, mix. Let it cook for another 2 minutes. Add half of the cooked rice on top of the chicken layer, sprinkle coriander and mint leaves.",
+                "Step 11: Place the dish on low heat, cover it and place a heavy item on top of the plate to trap the steam inside. Cook for another 20 minutes",
+                "Step 12: Serve hot with onion raita."
+            ],
+            "favorite": false
+        },
+        {
+            "id": "5",
+            "name": "Tandoori",
+            "photos": "assets/images/tandoori.jpg",
+            "recipe":[
+                "Step 1: Wash the chicken leg pieces and pat them dry. Prepare a marinade with yoghurt, salt, turmeric powder, red chilli powder, coriander powder, tandoori masala, lemon juice, coriander leaves, mint leaves, mustard oil, green chilli, ginger & garlic paste. When the marinade is ready, apply it all over the chicken legs and let them marinate overnight.",
+                "Step 2: Next day, take out the leg pieces and apply ghee all over the marinated leg pieces. Put them on a barbecue and roast them well. Transfer them to a bowl when done.",
+                "Step 3: If you enjoy smoky flavours, cover these leg pieces with a bowl containing heated charcoal and butter for about two minutes. When done, serve with mint chutney and onion-lemon salad."
+            ],
+            "favorite": false
+        }
+    ]
+}
